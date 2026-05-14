@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://why-plain-english-is-the-future-of-workf-mo8vqn96h.vercel.app/sitemap.xml
